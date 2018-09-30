@@ -3,13 +3,13 @@
   "services": [
     {
       "icon": "file",
-      "title": "Front End",
-      "description": "Build dynamic front end web apps with React.js and JavaScript(ES8). "
+      "title": "Front-End",
+      "description": "Build dynamic front-end web apps with React and JavaScript(ES8). "
     },
     {
       "icon": "server",
-      "title": "Back End",
-      "description": "Build RESTful aynchronized back end service using Node.js and MongoDB."
+      "title": "Back-End",
+      "description": "Build RESTful back-end services using Node.js and MongoDB."
     }
   ]
 }
