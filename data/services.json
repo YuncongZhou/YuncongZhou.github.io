@@ -9,7 +9,7 @@
     {
       "icon": "server",
       "title": "Back-End",
-      "description": "Build RESTful back-end services using Node.js and MongoDB."
+      "description": "Build RESTful asynchronous back-end services using Node.js and MongoDB."
     }
   ]
 }
