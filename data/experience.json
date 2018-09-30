@@ -1,0 +1,17 @@
+{
+  "title": "Experience",
+  "experience": [
+    {
+      "timeperiod": "Jul 2018 - Present",
+      "company": "Envio, Inc.",
+      "position": "Machine Learning Engineer",
+      "description": "Working on the cutting-edge core AI algorithm. Optimize the core algorithm, make it scalable and running 20 times faster for large dataset. "
+    },
+    {
+      "timeperiod": "Jul 2012 - May 2015",
+      "company": "Weizhen Motor",
+      "position": "Electric Motor Engineer",
+      "description": "Performed numerical simulations of electric motors to measure performance and reduce costs. "
+    }
+  ]
+}

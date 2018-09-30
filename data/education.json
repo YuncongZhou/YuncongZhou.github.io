@@ -1,0 +1,17 @@
+{
+  "title": "Education",
+  "education": [
+    {
+      "timeperiod": "Sep 2016 - May 2018",
+      "degree": "M.S. in Computer Science",
+      "university": "University of New Hampshire",
+      "description": ""
+    },
+    {
+      "timeperiod": "Sep 2008 - Jun 2012",
+      "degree": "B.S. in Physics",
+      "university": "Huazhong University of Science and Technology",
+      "description": " "
+    }
+  ]
+}

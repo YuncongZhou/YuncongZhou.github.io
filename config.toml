@@ -1,0 +1,5 @@
+baseURL = "http://example.org"
+languageCode = "en-us"
+title = "Alex Zhou"
+theme = "uilite"
+googleAnalytics = "UA-126700509-1"
